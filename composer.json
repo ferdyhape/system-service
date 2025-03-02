@@ -1,0 +1,19 @@
+{
+    "name": "ferdyhape/system-service",
+    "description": "Simple package for simple function",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ferdyhape\\SystemService\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ferdy Hahan Pradana",
+            "email": "ferdyhahan5@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
