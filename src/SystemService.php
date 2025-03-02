@@ -4,7 +4,7 @@ namespace Ferdyhape\SystemService;
 
 use Illuminate\Support\Facades\Storage;
 
-class ServiceName
+class FileManagement
 {
     public static function handleUploadFile($file, $folderName, $oldFile = null)
     {
